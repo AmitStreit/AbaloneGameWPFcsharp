@@ -1,0 +1,41 @@
+﻿<Window x:Class="AbaloneGameWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        xmlns:local="clr-namespace:AbaloneGameWPF"
+        Title="Abalone" Height="700" Width="1000">
+
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <!--<Setter Property="Background" Value="Gray"/>-->
+            <!--<Setter Property="BorderThickness" Value="0.5" />-->
+            <Setter Property="FontSize" Value="35" />
+
+        </Style>
+
+
+    </Window.Resources>
+
+    <Grid MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+
+        <Button x:Name="New_Game_Button" Content="New Game" HorizontalAlignment="Left" Margin="715,100,0,0" VerticalAlignment="Top" Width="200" Height="100" Click="New_Game_Click" />
+
+        <!--canvas-->
+        <Canvas x:Name ="CanvasXML" HorizontalAlignment="Left" VerticalAlignment="Top" Height="600" Width="600" Margin="30,30,0,0">
+            <Image x:Name ="Borad_Image_XML" HorizontalAlignment="Left"  Source="Images/abaloneboard.png" Height="600" Width="600"/>
+
+            <!--VerticalAlignment="Top"-->
+            <!--Source="Resources/abaloneborad.png"-->
+        </Canvas>
+        <Label x:Name="Black_Ejected_Label" Content="black 0/6" Panel.ZIndex="10" Height="100" Width="100" Margin="30,69,862,501" />
+        <Label x:Name="White_Ejected_Label" Content="white 0/6" Panel.ZIndex="10" Height="100" Width="100" Margin="30,490,862,80" />
+        <Label x:Name="Currnt_Turn_Label" Content="white" Panel.ZIndex="20" Width="200" Height="100" Margin="715,222,77,348" />
+        <RadioButton x:Name="Play_Against_Human_RadioButton" Content="Play Against Human" HorizontalAlignment="Left" Width="200" Height="25" Margin="715,350,0,0" VerticalAlignment="Top" FontSize="20" Checked="Play_Against_Human_RadioButton_Checked"/>
+        <RadioButton x:Name="Play_Against_Bot_RadioButton" Content="Play Against Bot" HorizontalAlignment="Left" Width="200" Height="25" Margin="715,380,0,0" VerticalAlignment="Top" FontSize="20" Checked="Play_Against_Bot_RadioButton_Checked"/>
+        <!--canvas end-->
+
+    </Grid>
+</Window>

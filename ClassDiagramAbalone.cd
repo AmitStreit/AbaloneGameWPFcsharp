@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbaloneGameWPF.PixelData">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAgAEAAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PixelData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbaloneGameWPF.Settings">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAEAAAAAEBAAAAABAAAAAEAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbaloneGameWPF.MoveType">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>MoveType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbaloneGameWPF.Graphics">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAIEQEAAAAAACCAAAAAAEQAAAgAAAAAAgAA=</HashCode>
+      <FileName>Graphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbaloneGameWPF.Borad">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFACABFAQCAAAKAYAAIAgIFALAACJgoAQoQwiKAoGE=</HashCode>
+      <FileName>Borad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbaloneGameWPF.AIPlayer">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAVAAABAAAACAAQAAQggJABAICACBRAAAAAwAAAAEAA=</HashCode>
+      <FileName>AIPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AbaloneGameWPF.TwoPeiceFormationType">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAQAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>TwoPeiceFormationType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AbaloneGameWPF.PieceType">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAAAACgAIAKAQAEAAAAAAAAAAAEAACBAIAABAA=</HashCode>
+      <FileName>PieceType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

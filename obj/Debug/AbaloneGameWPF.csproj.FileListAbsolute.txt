@@ -1,0 +1,15 @@
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\bin\Debug\AbaloneGameWPF.exe.config
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\bin\Debug\AbaloneGameWPF.exe
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\bin\Debug\AbaloneGameWPF.pdb
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\MainWindow.baml
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\MainWindow.g.cs
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\App.g.cs
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\AbaloneGameWPF_MarkupCompile.cache
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\AbaloneGameWPF.g.resources
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\AbaloneGameWPF.Properties.Resources.resources
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\AbaloneGameWPF.csproj.GenerateResource.Cache
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\AbaloneGameWPF.exe
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\AbaloneGameWPF.pdb
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\AbaloneGameWPF_MarkupCompile.lref
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\AbaloneGameWPF.csproj.CoreCompileInputs.cache
+F:\לימודים\יג\פרוייקט\פרוייקט_ראשוני\AbaloneGameWPF\AbaloneGameWPF\obj\Debug\AbaloneGameWPF.csprojAssemblyReference.cache
